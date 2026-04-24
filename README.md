@@ -64,9 +64,6 @@ Main Menu
 3. Withdraw
 4. Exit
 ```
-
-*(You can replace this section later with an actual screenshot image.)*
-
 ---
 
 ## 🎯 Learning Outcomes
@@ -85,12 +82,6 @@ Main Menu
 🔹 Multiple User Accounts
 🔹 Transaction History
 🔹 PIN Change Feature
-
----
-
-## 👨‍💻 Author
-
-**Sambit Moharana**
 
 ---
 
