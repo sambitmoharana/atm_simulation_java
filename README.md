@@ -54,16 +54,7 @@ ATM-Simulation/
 
 ## 📸 Screenshot
 
-> Add your program screenshot here after uploading.
 
-```text
-Example:
-Main Menu
-1. Check Balance
-2. Deposit
-3. Withdraw
-4. Exit
-```
 ---
 
 ## 🎯 Learning Outcomes
