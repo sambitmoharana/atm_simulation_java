@@ -53,7 +53,7 @@ ATM-Simulation/
 ---
 
 ## 📸 Screenshot
-
+![ATM Output](image.jpg)
 
 ---
 
