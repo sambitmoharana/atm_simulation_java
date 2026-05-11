@@ -76,6 +76,3 @@ ATM-Simulation/
 
 ---
 
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and feel free to explore the code!
